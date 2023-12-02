@@ -1,1 +1,1 @@
-https://pisk0.github.io/rsschool-cv/cv
+https://pisk0.github.io/rsschool-cv/index
